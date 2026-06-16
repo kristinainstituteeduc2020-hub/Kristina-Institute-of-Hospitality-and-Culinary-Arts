@@ -30,7 +30,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Admin — Kristina Institute</title>
-  <link rel="stylesheet" href="../assets/style.css" />
+  <link rel="stylesheet" href="style.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lato:wght@400;700&display=swap" rel="stylesheet" />
@@ -85,7 +85,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     <div class="container header-inner">
         <div class="brand">
         <div class="brand-mark" aria-hidden="true">
-<img class="brand-logo" src="../assets/KIHCA LOGO MALIWANAG.png" alt="Kristina Institute logo" />
+<img class="brand-logo" src="KIHCA LOGO MALIWANAG.png" alt="Kristina Institute logo" />
         </div>
         <div>
           <div class="brand-title">Kristina Institute</div>
